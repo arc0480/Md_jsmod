@@ -1,6 +1,6 @@
-const PowerCore = extend(Conveyor, "terrible-conveyor", {
-  // various overrides...
+
+
+const PowerCore = extend(StorageBlock, 'PowerCore', {
   size: 3,
   health: 200
-  //...
 });
