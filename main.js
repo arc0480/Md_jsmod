@@ -1,1 +1,1 @@
-require("blocks");
+require("PowerCore");
