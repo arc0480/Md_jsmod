@@ -3,5 +3,8 @@
 const PowerCore = extend(StorageBlock, 'PowerCore', {
   size: 3,
   health: 200,
-  category: effect
+  category: effect,
+  alwaysUnlocked: true,
+  unitType: alpha
+  
 });
